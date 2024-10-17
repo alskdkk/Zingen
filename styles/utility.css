@@ -27,11 +27,18 @@
   gap: 1rem;
 }
 
+.items-center {
+  align-items: center;
+}
+
 .flex {
   display: flex;
 }
 .gap-1 {
   gap: 1rem;
+}
+.gap-1\.5 {
+  gap: 1.5rem;
 }
 .grid {
   display: grid;
