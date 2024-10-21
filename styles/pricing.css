@@ -17,6 +17,10 @@
     margin-top: .25rem;
   }
 
+  & .card .p-size {
+    width: 20rem;
+  }
+
   & zin-pricing {
     display: block;
     padding-block: 1.5rem;
