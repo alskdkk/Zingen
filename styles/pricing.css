@@ -51,9 +51,10 @@
     color: var(--text-color-secondary);
   }
 
+
+
   & .premium {
     position: relative;
-
     & .card {
       padding-top: 4.25rem;
       & > span {
